@@ -1,0 +1,108 @@
+@font-face {
+    font-family: 'Tomarik Display Shadow';
+    src: url('Tomarik-DisplayShadow.eot');
+    src: local('Tomarik Display Shadow'), local('Tomarik-DisplayShadow'),
+        url('Tomarik-DisplayShadow.eot?#iefix') format('embedded-opentype'),
+        url('Tomarik-DisplayShadow.woff2') format('woff2'),
+        url('Tomarik-DisplayShadow.woff') format('woff'),
+        url('Tomarik-DisplayShadow.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Tomarik Display';
+    src: url('Tomarik-Display.eot');
+    src: local('Tomarik Display'), local('Tomarik-Display'),
+        url('Tomarik-Display.eot?#iefix') format('embedded-opentype'),
+        url('Tomarik-Display.woff2') format('woff2'),
+        url('Tomarik-Display.woff') format('woff'),
+        url('Tomarik-Display.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Tomarik Extrovert';
+    src: url('Tomarik-Extrovert.eot');
+    src: local('Tomarik Extrovert'), local('Tomarik-Extrovert'),
+        url('Tomarik-Extrovert.eot?#iefix') format('embedded-opentype'),
+        url('Tomarik-Extrovert.woff2') format('woff2'),
+        url('Tomarik-Extrovert.woff') format('woff'),
+        url('Tomarik-Extrovert.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Tomarik Introvert';
+    src: url('Tomarik-Introvert.eot');
+    src: local('Tomarik Introvert'), local('Tomarik-Introvert'),
+        url('Tomarik-Introvert.eot?#iefix') format('embedded-opentype'),
+        url('Tomarik-Introvert.woff2') format('woff2'),
+        url('Tomarik-Introvert.woff') format('woff'),
+        url('Tomarik-Introvert.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Tomarik Display Line Shadow';
+    src: url('Tomarik-DisplayLineShadow.eot');
+    src: local('Tomarik Display Line Shadow'), local('Tomarik-DisplayLineShadow'),
+        url('Tomarik-DisplayLineShadow.eot?#iefix') format('embedded-opentype'),
+        url('Tomarik-DisplayLineShadow.woff2') format('woff2'),
+        url('Tomarik-DisplayLineShadow.woff') format('woff'),
+        url('Tomarik-DisplayLineShadow.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Tomarik Brush';
+    src: url('Tomarik-Brush.eot');
+    src: local('Tomarik Brush'), local('Tomarik-Brush'),
+        url('Tomarik-Brush.eot?#iefix') format('embedded-opentype'),
+        url('Tomarik-Brush.woff2') format('woff2'),
+        url('Tomarik-Brush.woff') format('woff'),
+        url('Tomarik-Brush.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Tomarik Display Line';
+    src: url('Tomarik-DisplayLine.eot');
+    src: local('Tomarik Display Line'), local('Tomarik-DisplayLine'),
+        url('Tomarik-DisplayLine.eot?#iefix') format('embedded-opentype'),
+        url('Tomarik-DisplayLine.woff2') format('woff2'),
+        url('Tomarik-DisplayLine.woff') format('woff'),
+        url('Tomarik-DisplayLine.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Tomarik Serif';
+    src: url('Tomarik-Serif.eot');
+    src: local('Tomarik Serif'), local('Tomarik-Serif'),
+        url('Tomarik-Serif.eot?#iefix') format('embedded-opentype'),
+        url('Tomarik-Serif.woff2') format('woff2'),
+        url('Tomarik-Serif.woff') format('woff'),
+        url('Tomarik-Serif.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Tomarik Poster';
+    src: url('Tomarik-Poster.eot');
+    src: local('Tomarik Poster'), local('Tomarik-Poster'),
+        url('Tomarik-Poster.eot?#iefix') format('embedded-opentype'),
+        url('Tomarik-Poster.woff2') format('woff2'),
+        url('Tomarik-Poster.woff') format('woff'),
+        url('Tomarik-Poster.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
