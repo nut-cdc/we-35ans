@@ -63,6 +63,17 @@ span.dark-blue {
 	color: #00468e;
 }
 
+a.dark-blue {
+	color: #fff;
+	background-color: #00468E;
+	padding: 1.5rem;
+}
+
+a.dark-blue:hover {
+	background-color: #fff;
+	color: #00468E;
+}
+
 span.esperluette {
 	font-size: 75%;
 	font-family: "Tomarik Brush", sans-serif;
@@ -253,7 +264,7 @@ a:hover {
 	border: 1px solid #00468e;
 	border-radius: 32px;
 	background-color: #00468e;
-	color: #ffffff;
+	color: #00468e;
 	font-weight: 600;
 	font-size: 0.875rem;
 	line-height: 0;
@@ -263,7 +274,7 @@ a:hover {
 
 .btn-solid-reg:hover {
 	background-color: transparent;
-	color: #00468e; /* needs to stay here because of the color property of a tag */
+	color: #fff; /* needs to stay here because of the color property of a tag */
 	text-decoration: none;
 }
 
@@ -309,11 +320,12 @@ a:hover {
 
 .btn-outline-lg {
 	display: inline-block;
-	padding: 1.625rem 2.75rem 1.625rem 2.75rem;
-	border: 1px solid #333333;
+	/*padding: 1.625rem 2.75rem 1.625rem 2.75rem;*/
+	padding: 1rem;
+	border: 1px solid #00468E;
 	border-radius: 32px;
 	background-color: transparent;
-	color: #333333;
+	color: #00468E;
 	font-weight: 600;
 	font-size: 1rem;
 	line-height: 0;
@@ -322,7 +334,7 @@ a:hover {
 }
 
 .btn-outline-lg:hover {
-	background-color: #333333;
+	background-color: #00468E;
 	color: #ffffff;
 	text-decoration: none;
 }
@@ -856,6 +868,12 @@ input[type='checkbox'] {
 	justify-content: center;
 }
 
+img.hotel {
+	margin: 0.25rem;
+	width: 280px;
+	height: 250px;
+}
+
 img.flag {
 	position: relative;
 	top: -3rem;
@@ -951,7 +969,7 @@ img.flag {
 }
 
 #activites .card {
-	margin-top: 2rem;
+	margin-top: 1rem;
 	text-align: center;
 	width: 450px;
 	margin-left: 2rem;
@@ -962,6 +980,8 @@ img.flag {
 	-o-border-radius: 10px;
 	display: flex;
 	justify-content: center;
+	border: none;
+	background-color: transparent;
 }
 
 #activites .card-body {
@@ -996,11 +1016,20 @@ img.flag {
 	background-color: transparent;
 }
 
+#speakers .card {
+	/*background-color: red;*/
+	margin: 1rem;
+}
+
+#speakers .card img {
+	width: 280px;
+	height: 250px;
+}
+
 .cards-1 .card-image {
 	position: relative;
 	width: /*11*/ 15rem;
 	height: /*11*/ 15rem;
-	width: 15rem;
 	margin-right: auto;
 	margin-bottom: 2rem;
 	margin-left: auto;
@@ -1131,6 +1160,7 @@ img.logo {
 /********************/
 /*     Speakers     */
 /********************/
+
 .cards-2 {
 	padding-top: 5rem;
 	padding-bottom: 5rem;
@@ -1163,13 +1193,15 @@ img.logo {
 .cards-2 .card-image {
 	position: relative;
 	margin-bottom: 1.75rem;
-	height: 233px;
+	height: /*233*/px;
 }
 
 .cards-2 .card-image img {
 	border-radius: 6px;
-	width: 256px;
-	height: 245px;
+	width: /*256*/300px;
+	height: /*245*/300px;
+	margin: 1rem;
+	box-sizing: content-box;
 }
 
 .cards-2 .card-image .hover-overlay {
