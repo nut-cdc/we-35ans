@@ -1186,6 +1186,13 @@ img.logo {
 	height: 245px;
 }
 
+#speakers .panoramique img {
+	width: 800px;
+	height: auto;
+	position: relative;
+	right: 2rem;
+}
+
 .cards-2 .card-image .hover-overlay {
 	position: absolute;
 	top: 0;
@@ -1872,6 +1879,9 @@ a:hover.back-to-top {
 h2 {
 	font-size: 2.5rem;
 	}
+#speakers .panoramique img {
+	width: 300%;
+}
 }
 
 @media (max-width: 550px) {
